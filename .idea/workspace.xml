@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="837e0228-11b2-475f-a170-2a4f2ea365aa" name="Default Changelist" comment="" />
+    <list default="true" id="837e0228-11b2-475f-a170-2a4f2ea365aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/classes/com/action/ServerApiApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/classes/com/action/config/DefinedFeignConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/classes/com/action/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/classes/com/action/http/ServerProviderFallBack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/classes/com/action/http/ServerProviderHttp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/classes/com/action/service/IndexService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/server-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/server-api-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/test-classes/com/action/RibbonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/test-classes/com/action/ServerApiApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-api/target/test-classes/com/action/ServerProviderHttpTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/classes/com/action/enums/EmRetCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/classes/com/action/utils/ApiResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/server-common-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-common/target/test-classes/com/action/ServerCommonApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/classes/application-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/classes/com/action/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/classes/com/action/ServerConfigApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/server-config-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/server-config-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-config/target/test-classes/com/action/ServerConfigApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-db/target/classes/com/action/mapper/CoreDictMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-db/target/classes/com/action/model/CoreDict.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-db/target/classes/mapper/CoreDictMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-db/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-db/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-db/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-db/target/server-db-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/classes/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/classes/com/action/ServerProvider1Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/classes/com/action/config/NacosConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/classes/com/action/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/classes/com/action/entity/ServerData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/classes/com/action/service/DataService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/server-provider-1-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/server-provider.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-provider-1/target/test-classes/com/action/ServerProvider1ApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-redis/target/classes/com/action/redis/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-redis/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-redis/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-redis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-redis/target/server-redis-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +100,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -38,6 +111,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cNUGeBgufswaRS0FGDM3WldoH9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,6 +123,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -280,6 +355,7 @@
       <workItem from="1590713013567" duration="25066000" />
       <workItem from="1590794906872" duration="3308000" />
       <workItem from="1590811194852" duration="6431000" />
+      <workItem from="1590894019296" duration="1272000" />
     </task>
     <servers />
   </component>
@@ -308,26 +384,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590653552279" />
-    <state width="1493" height="300" key="GridCell.Tab.0.bottom" timestamp="1590833547508">
+    <state width="1493" height="300" key="GridCell.Tab.0.bottom" timestamp="1590894422846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1322" height="349" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590754524810" />
-    <state width="1493" height="300" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590833547508" />
-    <state width="1493" height="300" key="GridCell.Tab.0.center" timestamp="1590833547508">
+    <state width="1493" height="300" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590894422846" />
+    <state width="1493" height="300" key="GridCell.Tab.0.center" timestamp="1590894422846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1322" height="349" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590754524810" />
-    <state width="1493" height="300" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590833547508" />
-    <state width="1493" height="300" key="GridCell.Tab.0.left" timestamp="1590833547508">
+    <state width="1493" height="300" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590894422846" />
+    <state width="1493" height="300" key="GridCell.Tab.0.left" timestamp="1590894422846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1322" height="349" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590754524810" />
-    <state width="1493" height="300" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590833547508" />
-    <state width="1493" height="300" key="GridCell.Tab.0.right" timestamp="1590833547508">
+    <state width="1493" height="300" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590894422846" />
+    <state width="1493" height="300" key="GridCell.Tab.0.right" timestamp="1590894422846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1322" height="349" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590754524810" />
-    <state width="1493" height="300" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590833547508" />
+    <state width="1493" height="300" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590894422846" />
     <state width="1493" height="372" key="GridCell.Tab.1.bottom" timestamp="1590833547508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

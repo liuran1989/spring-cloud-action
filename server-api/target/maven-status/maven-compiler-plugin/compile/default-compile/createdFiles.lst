@@ -1,5 +1,0 @@
-com\action\service\IndexService.class
-com\action\controller\IndexController.class
-com\action\http\ServerProviderHttp.class
-com\action\config\DefinedFeignConfiguration.class
-com\action\ServerApiApplication.class
